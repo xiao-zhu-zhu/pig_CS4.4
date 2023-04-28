@@ -2,3 +2,13 @@
 # pig_CS4.4
 cs4.4猪猪版 去暗桩 去流量特征  beacon仿造真实API服务  修补CVE-2022-39197补丁
 
+1. 去暗桩
+2. 更改认证头 COOKIE改为Authentication
+3. 更改get请求 与POST请求地址
+4. 使用geacon 替换beacon
+5. 更改为json相应包和请求包
+6. CVE-2022-39197补丁
+7. 修改ja3和ja3s特征 
+
+
+
